@@ -23,7 +23,7 @@ fluxo, padronizando a manutenção em toda a frota.
 ## Como usar
 1. Execute como Administrador
 2. Selecione a rotina no menu
-3. Aguarde a conclusão — log salvo em /logs/
+3. Aguarde a conclusão - log salvo em /logs/
 
 ## Resultado
 Implantado em ambiente real com X máquinas. Reduziu o tempo 
