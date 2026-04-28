@@ -1,3 +1,8 @@
+<div style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
+  <img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal Badge" />
+</div>
+
 # ASS. COELHO - Windows Maintenance Tool v4.0
 
 Ferramenta de manutenção e suporte técnico para ambientes
