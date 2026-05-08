@@ -74,6 +74,7 @@ maior estabilidade e ganho de desempenho operacional.
 | 9 | Gestão de Startup | Listagem de programas que iniciam com o sistema. |
 | 10 | Scanner de Vírus | Interface CLI para o Microsoft Defender. |
 | 11 | Relatório Consolidado | Gera log profissional em .txt com métricas reais de hardware. |
+| 0 | Sair do Sistema | Encerra o sistema. |
 
 ---
 
